@@ -9,9 +9,10 @@ source:
   sha256: dd1cd0112d09cea29afa1568d644f54eccffdad2f5909708b519c1d7c647e9f1
   patches:
     - findjpeg.patch
+    - realpath.patch
 
 build:
-  number: 2
+  number: 3
 
 requirements:
   build:
