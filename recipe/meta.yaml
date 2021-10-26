@@ -7,9 +7,6 @@ package:
 source:
   url: https://github.com/stcorp/coda/releases/download/{{ version }}/coda-{{ version }}.tar.gz
   sha256: 183d9a2028fb570a1b31bb24bbbbdfb356900b23140db4682224688f37f2af08
-  patches:
-    - findjpeg.patch
-    - realpath.patch
 
 build:
   number: 0
