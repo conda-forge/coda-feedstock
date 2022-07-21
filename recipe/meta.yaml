@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/stcorp/coda/releases/download/{{ version }}/coda-{{ version }}.tar.gz
-  sha256: a27ff228cfd7fab7dcb1e95d53adc74be49a855a09a42e56d8f5f6aa398c1ba6
+  sha256: b27073b645b6334a6bd9c5e74912137bfd4bdfd96d475c2de7fc39ef7935128a
 
 build:
   number: 0
