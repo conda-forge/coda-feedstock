@@ -16,8 +16,8 @@ hdf4:
 - 4.2.15
 hdf5:
 - 1.14.0
-jpeg:
-- '9'
+libjpeg_turbo:
+- 2.1.5
 macos_machine:
 - arm64-apple-darwin20.0.0
 pin_run_as_build:
