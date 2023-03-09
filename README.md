@@ -1,11 +1,11 @@
-About coda
-==========
+About coda-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/coda-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/stcorp/coda
 
 Package license: BSD-3-Clause-Clear
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/coda-feedstock/blob/main/LICENSE.txt)
 
 Summary: CODA is the Common Data Access framework that allows reading of scientific data from various data formats, including structured ascii, structured binary, XML, netCDF, CDF, HDF4, HDF5, GRIB, RINEX and SP3. It provides a single consistent hierarchical view on data independent of the underlying storage format.
 
