@@ -9,7 +9,7 @@ source:
   sha256: 39fe979a4a23da00608e1f48538055dcd31e776f78f29f1e8bc8c72a9b4a5851
 
 build:
-  number: 1
+  number: 2
 
 requirements:
   build:
@@ -26,7 +26,7 @@ requirements:
 
   host:
     - python
-    - jpeg
+    - libjpeg-turbo
     - zlib
     - hdf4
     - hdf5
