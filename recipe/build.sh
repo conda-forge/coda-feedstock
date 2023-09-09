@@ -3,7 +3,7 @@
 mkdir build
 cd build
 
-cmake $CMAKE_ARGS --trace \
+cmake $CMAKE_ARGS \
   -DCMAKE_BUILD_TYPE="Release" \
   -DCMAKE_INSTALL_PREFIX="$PREFIX" \
   -DCMAKE_PREFIX_PATH="$PREFIX" \
