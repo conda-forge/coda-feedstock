@@ -11,7 +11,7 @@ cxx_compiler:
 hdf4:
 - 4.2.15
 hdf5:
-- 1.14.4
+- 1.14.3
 pin_run_as_build:
   python:
     min_pin: x.x
@@ -25,4 +25,3 @@ target_platform:
 zip_keys:
 - - python
   - python_impl
-  - channel_sources
