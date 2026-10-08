@@ -1,4 +1,4 @@
-{% set version = "2.25.6" %}
+{% set version = "2.25.7" %}
 
 package:
   name: coda
@@ -6,10 +6,10 @@ package:
 
 source:
   url: https://github.com/stcorp/coda/releases/download/{{ version }}/coda-{{ version }}.tar.gz
-  sha256: 179647aed47c572503dfe27340b1c4e11b350858d9827c74807c34826e174012
+  sha256: 8d2d8517c0bd4b1c71a65f361f6a6f509f0e91fd5d2f2f744f81c783b5b7630e
 
 build:
-  number: 2
+  number: 0
 
 requirements:
   build:
